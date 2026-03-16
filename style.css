@@ -22,7 +22,7 @@ a{
 }
 
 .logo{
-    background-image: url("photo3.png");
+    background-image: url("images/photo3.png");
     background-size: cover;
     background-repeat: no-repeat;
     height:50px;
@@ -125,7 +125,7 @@ nav-second{
 
 
 .hero-section{
-    background-image: url("photo.png");
+    background-image: url("images/photo.png");
     height: 350px;
     background-size:cover;
     display: flex;
